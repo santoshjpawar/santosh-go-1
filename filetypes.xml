@@ -7,6 +7,7 @@
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="body" type="PLAIN_TEXT" />
       <mapping pattern="file-1" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="file2" type="PLAIN_TEXT" />
       <mapping pattern="file1" type="PLAIN_TEXT" />
       <mapping pattern="from" type="PLAIN_TEXT" />
