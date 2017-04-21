@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="to" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="subject" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="body" type="PLAIN_TEXT" />
+      <mapping pattern="file-1" type="PLAIN_TEXT" />
+      <mapping pattern="file2" type="PLAIN_TEXT" />
+      <mapping pattern="file1" type="PLAIN_TEXT" />
+      <mapping pattern="from" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
